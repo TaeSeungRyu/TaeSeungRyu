@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mr.%20RyuTaeSeung&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Front80%20Backend20&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mr.%20Front80&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Front80%20Backend20&descAlignY=51&descAlign=62)
 - Rts의 깃헙 입니다. :)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
