@@ -4,5 +4,6 @@
 - 방문해 주셔서 감사합니다. : - )
 - mail : lts06069@naver.com
 - HomePage : https://lts0606.tistory.com
-
-![Image](https://github.com/user-attachments/assets/d88059c9-753e-474b-95eb-24f8425ee457) 
+<div align="center">
+    <img width="511" alt="image" src="https://github.com/user-attachments/assets/d88059c9-753e-474b-95eb-24f8425ee457">
+</div>
