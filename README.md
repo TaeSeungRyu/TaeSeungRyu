@@ -1,6 +1,8 @@
 <div align="center">
   <!-- 상단 캡슐 헤더 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mr.%20Front60&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Front60%20Backend40&descAlignY=51&descAlign=62" width="100%" />
+<div align="center">  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mr.%20Ryu&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Front60%20Backend40&descAlignY=51&descAlign=62" width="85%" />
+</div>  
   <br/>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TaeSeungRyu&theme=tokyonight" alt="Profile Details" />
